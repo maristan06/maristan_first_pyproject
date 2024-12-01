@@ -1,1 +1,3 @@
 bot_token = '7569994885:AAGmh_7U5yZOf3OBhFGayz5Zsjy7SDA5e7A'
+ChatGPT_TOKEN = "gpt:AEsXreIXcwEiqqkD3eqScgeFrtd_ekSvJdr_NdzFBAo8OOjyKzxVnawoToLoocydzuE9DANycYJFkblB3Tx4YlskdQhQ_4BrXR3QJe51XzgOOMFi0WErBAGuStCjy4Sq51AcQ3AnJI__P9LZvmzxEsF_oSgh"
+
