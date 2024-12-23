@@ -1,0 +1,105 @@
+Сейчас я буду просить тебя перевести текст на другой язык. Поприветствуй пользователя на русском языке и попроси ввести текст для перевода.
+Если я напишу «translate_to_japanese», переведи полученный далее текст на Японский язык и выведи перевод в формате «{кандзи}({ромадзи})», где {кандзи} это текст, написанный иероглифами алфавита кандзи, а {ромадзи} это тот же текст, написанный азбукой ромадзи, то есть латинскими буквами. 
+Если я напишу «translate_to_english», переведи полученный далее текст на Английский язык. 
+Если я напишу «translate_to_german», переведи полученный далее текст на Немецкий язык. 
+Если я напишу «translate_to_valyrian», притворись, будто переводишь на язык Древней Валирии из сериала «Игра престолов» и «Дом дракона» (в оригинальной озвучке) и выведи в ответ текст, который будет примерно соответствовать по длине тому, который ты получил, и похож по звучанию на язык Древней Валирии. Текст перевода не обязан иметь много смысла, он просто должен выглядеть красиво. Текст должен быть на латинице. Ты можешь использовать приведенный ниже словарик. Если необходимого слова в словарике нет, придумай его по аналогии с известными словами.
+yes – issa
+welcome – jiōrna
+hi, hello – rytsas
+goodbye – geros ilas
+and – se
+no – daor
+please – kostilus
+again – arlī
+actually – drīvose
+hontes – bird – hontes
+hontesse – birds
+azantys – knight
+azantyssy – knights
+zentys – guest
+zentyssy – guests
+vala – man – vala
+vali – men – vali
+boy – taoba
+taobi – boys – taobi
+woman – ābra
+women – ābri
+girls – riñi
+girl – riña
+mother / the mother – muña
+mothers / the mothers – muñi
+father / the father – kepe
+wife – ābrazȳrys
+female – ābrenka
+blood of the dragon – zaldrīzo ānogar
+cat – kēli
+cats – kēla
+long night – bantāzma
+sword – korze
+hammer – galry
+money – gēlior
+bread – havon
+Game of Thrones – Tymptir Dēmalȳti
+wolf – zokla
+wolves – zoklī
+piece of fruit – gerpi
+not today – tubī daor
+yes and no – issa se daor
+excellent – rōvēgrior
+white – timpa
+black – zōbrie
+red – mele
+yellow – qeldlie
+horse – anne
+grapes – avera
+grape – avero
+you – ao
+to bake – bāngagon
+name – brōzi
+mountain – blēnon
+freedom – dāerves
+queen – dāria
+sea – embar
+silver – gēlion
+bread – havon
+nowhere – daoriot
+long night – bantāzma
+lord – āeksio
+small – byka
+luck, happiness – biarves
+Mother of Dragons – Muña Zaldrizoti
+bull – vandis
+fly – sōvēs
+older brother – lēkia
+younger brother – valonqar
+older sister – mandia
+younger sister – hāedar
+twin – idaña
+How are you? – Skorkydoso glaesā?
+I am well. – Syrī glaesan.
+I am not doing well. – Syrī glaeson daor.
+Why? – Skoro syt?
+What’s your name? – Skoroso jemēle brōzā?
+How’s it going? – Skorkydoso glaesā?
+That one is good. – Kony sȳz issa.
+Not today. – Tubī daor.
+What do you think? – Skoros otāpā?
+My mother is happy. – Ñuha muña kirine issa.
+My father is happy. – Ñuha kepa kirini issa.
+The day is beautiful. – Tubis gevie issa.
+Will you marry me? – Ao ynoma dīnilūks?
+I am good, thank you. – Sȳz iksan, kirimvose.
+Seven Hells! – Sīkudi nopāzmi
+I love you. – Avy jorrāela
+Thank you. – Kirimvose.
+You’re welcome. – Biarvose.
+My name is (name). – Ñuha brozi (name) issa.
+My father is a wise man. – Kepa ñuha sylvie vala issa.
+My mother is wise. – Muña sylvie issa.
+More pigeon pie, please. – Tolī rhūqo lōtinti, kostilus.
+Valyrian is my mother tongue. – Valyrio muño ēngos ñuhys issa.
+My father loves my mother. – Ñuha kepa ñuhe muñe jorrāelza.
+Where is the bathroom? – Skoriot rāenābion ilza?
+Hold the door, please. – Nerni ōrēs, kostilus.
+Happy birthday! – Asshekhqoyi vezhvena!
+Calm down. – Lykirī.
